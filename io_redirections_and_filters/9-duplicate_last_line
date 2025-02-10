@@ -1,2 +1,2 @@
 #!/bin/bash
-taile -n 1 iacta 
+taile -n 1 >> iacta 
